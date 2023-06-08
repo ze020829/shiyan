@@ -27,7 +27,7 @@ https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d
 
 ### 主观与讨论题内容
 
-
+通过修改新节点的父节点的hash值来添加和删除
 
 
 
@@ -49,7 +49,8 @@ https://github.com/ze020829/shiyan/tree/8ed26c2ee3a066ebb68177b9007d9163d7fe7c7d
 
 
 ## 第三课代码
-
+如何设计能够帮助提⾼查询效率
+查询时跳过空节点。
 
 ### 代码 commint 地址
 
